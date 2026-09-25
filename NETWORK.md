@@ -1,6 +1,6 @@
 # Landing Page A/B Tester — Network Links
 
-Variant generation, traffic allocation and significance testing.
+Plan, run and analyze landing page A/B tests with significance checks.
 
 ## Live
 - App: https://ziontechgroup.com/landing-page-ab-tester/
@@ -8,8 +8,8 @@ Variant generation, traffic allocation and significance testing.
 - Pages: https://zion-support.github.io/landing-page-ab-tester/
 
 ## Related apps
-- [ai-growth-marketing-hub](https://ziontechgroup.com/ai-growth-marketing-hub/) · [GitHub](https://github.com/Zion-support/ai-growth-marketing-hub)
 - [ad-budget-optimizer](https://ziontechgroup.com/ad-budget-optimizer/) · [GitHub](https://github.com/Zion-support/ad-budget-optimizer)
+- [ai-growth-marketing-hub](https://ziontechgroup.com/ai-growth-marketing-hub/) · [GitHub](https://github.com/Zion-support/ai-growth-marketing-hub)
 - [content-roi-dashboard](https://ziontechgroup.com/content-roi-dashboard/) · [GitHub](https://github.com/Zion-support/content-roi-dashboard)
 
 ## Network
